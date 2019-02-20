@@ -1,3 +1,5 @@
 .vagrant
 db-data
 *.log
+php-app/*
+.vscode/
